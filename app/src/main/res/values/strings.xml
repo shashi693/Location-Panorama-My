@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Location Panorama</string>
+
+    <string name="panorama_not_ready">Panorama is not ready yet</string>
+</resources>
